@@ -7,7 +7,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ezralazuardy/hacktoberfest?style=flat-square)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ezralazuardy/hacktoberfest?color=green&style=flat-square)
 
-# hacktoberfest
+# HacktoberFEST
 
 ![hacktoberfest](https://raw.githubusercontent.com/ezralazuardy/hacktoberfest/master/assets/hacktoberfest.png)
 
